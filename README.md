@@ -49,4 +49,4 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estes pa
 
 **Licença:**
 
-[Mencione a licença utilizada, por exemplo, MIT]
+[LICENSE]
