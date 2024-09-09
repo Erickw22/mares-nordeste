@@ -49,4 +49,4 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estes pa
 
 **Licença:**
 
-[LICENSE]
+[[LICENSE](https://github.com/Erickw22/mares-nordeste/blob/main/LICENSE)]
