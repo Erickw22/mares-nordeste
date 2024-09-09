@@ -45,7 +45,7 @@ Contribuições são bem-vindas! Para contribuir com este projeto, siga estes pa
 
 **Autor:**
 
-[Seu nome]
+[ErickW22]
 
 **Licença:**
 
